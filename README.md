@@ -7,7 +7,7 @@ The filesystem is mounted by :
 ./memfs [mount point]
 ```
 
-Where the argument "mount point" is the directory where the filesystem will be mounted at.
+where the argument "mount point" is the directory where the filesystem will be mounted at.
 
 ## Deliverables
 1) The ability to create flat files and directories in the in-memory filesystem i.e, all files and directories stored in a single directory which is the root of the filesystem.
