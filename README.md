@@ -1,5 +1,5 @@
 # FUSE
-A basic filesystem implemented by using FUSE
+A basic filesystem implemented by using FUSE.
 
 The filesystem is mounted by :
 
